@@ -8,7 +8,7 @@ const SectionHeader = ({ name }) => {
 		</react_native_1.Text>);
 };
 const styles = react_native_1.StyleSheet.create({
-    sectionHeader: { margin: 8, fontSize: 17, height: 20, width: '100%', color: '#999' }
+    sectionHeader: { margin: 8, fontSize: 17, width: '100%', color: '#999' }
 });
 exports.default = (0, react_1.memo)(SectionHeader);
 //# sourceMappingURL=index.js.map

@@ -26,7 +26,8 @@ const styles = react_native_1.StyleSheet.create({
         flex: 1,
         paddingHorizontal: 15,
         height: 34,
-        fontSize: 16
+        fontSize: 16,
+        padding: 0
     }
 });
 //# sourceMappingURL=index.js.map
